@@ -1,0 +1,13 @@
+body{
+background: aqua;	
+}
+
+p{ 
+        color:blue;
+	}
+
+a {
+	color: yellow;
+	font-size:32px;
+	text-decoration: none;
+}
